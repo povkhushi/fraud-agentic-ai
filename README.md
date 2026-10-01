@@ -22,7 +22,7 @@ with customer impact. All data is synthetic.
 | Guardrails | `app/guardrails.py`: PII masking, injection filter, schema check, evidence check, policy floor |
 | Audit trail | `logs/audit_log.jsonl`, viewable in tab 4 |
 
-## 1. Install (one time)
+## 1. Install (one time for AI agents)
 
 1. Install **Python 3.10 or newer** from python.org. On Windows, tick "Add Python to PATH".
 2. Install **Ollama** from https://ollama.com/download and open it.
